@@ -1,7 +1,6 @@
 segunda linha
-<<<<<<< HEAD
 
 nova linha
-=======
+
 nova linha fulano
->>>>>>> 83954ae9d8396b9cbad9dc60a8b4c29aaac61242
+
